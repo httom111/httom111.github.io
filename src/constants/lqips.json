@@ -1,5 +1,4 @@
 {
-  "src:assets/images/avatar.avif": "dcd8d5d1cecabea9a9",
   "public:gallery/firefly-2026/cover.avif": "7588a28a8f989e8d88",
   "public:gallery/firefly-2026/1.avif": "c8bca9dde6d2babfb5",
   "src:assets/images/MobileWallpaper/m6.avif": "ccd0cbdddddbcccac9",
@@ -21,5 +20,7 @@
   "public:assets/images/ad/ad1.webp": "a1b8b68a8e918c8f93",
   "src:content/posts/images/queue-time-heap.png": "dde6dee7efdce5f8dd",
   "src:content/posts/images/linklist-reverk.jpg": "f9f9faf8f8f9fcfcfc",
-  "src:assets/images/MyWallpaper/bg.jpg": "5749416351475d514a"
+  "src:assets/images/avatar-miku.jpg": "c8dcddf1e7e4ebe2df",
+  "src:assets/images/MyWallpaper/bg-genshin.png": "92a5c0b7b3cba8a8c1",
+  "src:assets/images/MyWallpaper/bg-genshin-mobile.jpg": "b5c8d3b4c2d3c9bbc9"
 }
